@@ -1,0 +1,7 @@
+{
+  "name": "facu-xviii-spiral",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Invitación de 18 inspirada en Tengen Toppa Gurren-Lagann. HTML, CSS y JavaScript sin dependencias.",
+  "scripts": { "start": "node server.cjs", "check": "node --check dist/script.js && node --check server.cjs" }
+}
